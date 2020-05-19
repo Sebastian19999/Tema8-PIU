@@ -1,0 +1,14 @@
+1;Ford;Mondeo;negru;2008;Patrascu Alli;Galan Sebastian;24.08.2018;6400;Airbaguri laterale, Conectivitate Bluetooth, Proiectoare ceata;Sedan;5/18/2020 11:36:39 PM
+2;Ford;Focus;albastru;2004;Vladivostok Vlad;Miron Vasile;20.01.2020;2999;Airbaguri laterale;Sedan;5/18/2020 11:38:31 PM
+3;Opel;Insigna;albastru;2009;Popescu Pop;Ionescu Ion;24.02.2019;9800;Conectivitate Bluetooth;Sedan;5/19/2020 11:47:31 AM
+4;BMW;Z4;rosu;2010;Lungu Ovidiu;Lungu Sorina;23.04.2014;18500;Airbaguri laterale, Conectivitate Bluetooth;Sedan;5/18/2020 11:41:38 PM
+5;Ferrari;California;portocaliu;2014;Ionescu Ion;Popescu Pop;27.03.2020;86800;Frane ceramice, Volan piele;Sport;5/19/2020 11:32:02 AM
+6;Ford;Fiesta;rosu;2006;Radu Mihai;Popescu Alex;08.04.2010;4500;ABS, Cruise Control;Sedan;5/19/2020 1:04:32 AM
+7;Subaru;Impreza;albastru;2004;Vasile Lucian;Pochet Marian;12.04.2009;13000;ABS;Sedan;5/19/2020 10:22:07 AM
+8;Subaru;Impreza;albastru;2004;Vasile Lucian;Pochet Marian;12.04.2009;13000;ABS;Sedan;5/19/2020 10:22:10 AM
+9;Opel;Astra;rosu;2009;Lazar Marian;Dasc Vlad;23.03.2010;7600;ABS;Sedan;5/19/2020 10:29:52 AM
+10;Ford;Mondeo;negru;2018;Benone Dan;Benone Ana;23.05.2019;18000;ABS;Sedan;5/19/2020 10:38:57 AM
+11;Ford;Mondeo;negru;2007;Popescu Pop;Ionescu Ion;13.09.2017;5460;ABS, Cruise Control;Sedan;5/19/2020 10:42:16 AM
+12;Mitsubishi;Eclipse;portocaliu;2004;Danesc Dan;Danescu Mara;01.02.2012;4500;ABS, Airbaguri laterale;Sedan;5/19/2020 10:46:28 AM
+13;Lamborghini;Murcielago;maro;2005;Capusan Ovidiu;Popescu Bor;28.09.2018;14000;WiFi Hotspot, Fibra de carbon, Pachet Alcantara;Sport;5/19/2020 11:17:12 AM
+14;Audi;A8;verde;2017;Nicolae Mara;Pirsea Dan;04.04.2018;23000;Frane ceramice, Cruise Control;Sport;5/19/2020 11:25:27 AM
